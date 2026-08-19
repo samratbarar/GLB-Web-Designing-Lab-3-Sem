@@ -1,0 +1,4 @@
+Tag :-
+Form tag is a container that is used to store the data or collection of the user input.
+Attributes :-
+id it specifies a specify identifier. 
